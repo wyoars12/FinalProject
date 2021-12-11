@@ -1,0 +1,13 @@
+For tests 1-4, I did not have to change anything after I got the first addition button correct.
+
+Test 1: 2+2 (testing the addition button)
+Test 2: 5-2 (testing the subtraction button)
+Test 3: 5*4 (testing the multipulcation button)
+Test 4: 10/2 (testing the division button)
+
+For tests 5-7, I had to get rid of the second input in order for it to work properly. This is because
+the app was taking the value of the second values, not the first values.
+
+Test 5: 6% (testing the percentage button)
+Test 6: 7^2 (testing the squared button)
+Test 7: sqrt(9) (testing the sqrt button)

@@ -1,0 +1,10 @@
+1:Run the program.
+2:When Windows pop up, choose the calculator you want to use.
+3:If you choose the Simple Calculator, you click a number.
+	3a:Choose an operator(add, subtract, multiply, or divide).
+	3b:Then click another number.
+	3c:Lastly, hit the equals symbol(=).
+4:If you choose the Advanced Calculator, you click a number.
+	4a: Then you choose to find that numbers percent, square root, or square.
+5:For both calculators, in order to clear the text, you must hit clear if you want to start over.
+6:When you are done using the calculator, please close out of both of the windows to quit the program.
